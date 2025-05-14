@@ -1,0 +1,11 @@
+# ninja log v5
+0	7701	1747200379303532807	CMakeFiles/ImplicitCastCounter.dir/ImplicitCastCounter.cpp.o	ba6c5b3a1c40a1ef
+7701	7830	1747200379440535066	ImplicitCastCounter.so	29f7a14630a92f51
+4	6535	1747200443936247448	CMakeFiles/ImplicitCastCounter.dir/ImplicitCastCounter.cpp.o	ba6c5b3a1c40a1ef
+6535	6699	1747200444106251859	ImplicitCastCounter.so	29f7a14630a92f51
+1	6534	1747200564891073172	CMakeFiles/ImplicitCastCounter.dir/ImplicitCastCounter.cpp.o	ba6c5b3a1c40a1ef
+6534	6698	1747200565061076821	ImplicitCastCounter.so	29f7a14630a92f51
+1	6712	1747201083706091889	CMakeFiles/ImplicitCastCounter.dir/ImplicitCastCounter.cpp.o	ba6c5b3a1c40a1ef
+6712	6878	1747201083878095102	ImplicitCastCounter.so	29f7a14630a92f51
+3	6714	1747201366372362016	CMakeFiles/ImplicitCastCounter.dir/ImplicitCastCounter.cpp.o	ba6c5b3a1c40a1ef
+6714	6879	1747201366544365221	ImplicitCastCounter.so	29f7a14630a92f51

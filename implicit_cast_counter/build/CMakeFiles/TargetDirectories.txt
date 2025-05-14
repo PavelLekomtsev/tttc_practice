@@ -1,0 +1,17 @@
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/intrinsics_gen.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/vt_gen.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/omp_gen.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/acc_gen.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/ARMTargetParserTableGen.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/AArch64TargetParserTableGen.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/clang-tablegen-targets.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/ImplicitCastCounter.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/install-ImplicitCastCounter.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/install-ImplicitCastCounter-stripped.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/edit_cache.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/rebuild_cache.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/list_install_components.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/install.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/install/local.dir
+/home/pavel/Documents/Utils/tttc_practice/implicit_cast_counter/build/CMakeFiles/install/strip.dir
